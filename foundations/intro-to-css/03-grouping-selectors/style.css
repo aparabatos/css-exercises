@@ -1,1 +1,15 @@
-/* Add CSS Styling */
+.boring-button {
+    background-color: #0e0e0e;
+    color: #efefef;
+}
+
+.funny-button {
+    background-color: #eeff00;
+    color: #0e0e0e;
+}
+
+.boring-button,
+.funny-button {
+    font-size: 28px;
+    font-family: Helvetica, "Time New Roman", sans-serif;
+}
